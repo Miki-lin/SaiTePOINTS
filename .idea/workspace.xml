@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b0c5501-6ffc-475e-85ec-61292b28962b" name="Changes" comment="saitepoints" />
+    <list default="true" id="0b0c5501-6ffc-475e-85ec-61292b28962b" name="Changes" comment="saitepoints">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -218,7 +221,7 @@
       <workItem from="1672215170942" duration="165000" />
       <workItem from="1672217591450" duration="186000" />
       <workItem from="1672217844805" duration="6869000" />
-      <workItem from="1672283415292" duration="843000" />
+      <workItem from="1672283415292" duration="1159000" />
     </task>
     <task id="LOCAL-00001" summary="saitepoints">
       <created>1672283732407</created>
