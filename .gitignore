@@ -1,10 +1,1 @@
-data
-data/*
-data.bk/*
-.vscode
-temp
-*.pyc
-**.h5
-image_temp
-tools/pypcd
-temp*/
+
